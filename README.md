@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.nextgo.io](https://www.nextgo.io)
 
-- 📝 I am on several Ethical Hacker platforms [If you are interested ask me and we learn together.](If you are interested ask me and we learn together.)
+- 📝 I am on several Ethical Hacker platforms [If you are interested ask me and we learn together.](https://www.hackthebox.com)
 
 - 💬 Ask me about **AWS, GCP, Cisco, Fortinet, Cloud, Security And if we don't know, we investigate.**
 
