@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaury Loaiza E.</h1>
-<h3 align="center">Passionate about technology since 1995, originally from Venezuela, but a global citizen at heart. I've embraced remote work since before it became a necessity. Entrepreneur, DevOps enthusiast, networking aficionado, ethical hacker, developer, and a lifelong learner.
-
-⏳ With over 20 years in the industry, I've traversed various stages of technology to share my knowledge with the world today.
-
-🌍 A strong advocate for freedom, I believe in nurturing a multicultural environment that fosters both professional and spiritual growth. ⚔️
-
-🎯 Founder of two companies, each with a unique approach, spanning three different countries.
-
-🔐 My love for cybersecurity dates back to my early days, scouring AltaVista, Terra, and various forums in search of 'hackerS' information.
-
-📚 Embarking on a journey with Hack The Box and Try Hack Me, I'll document my progress in my posts, sharing insights, tools, growth opportunities, and more.
-
-🗣️ While several languages are spoken here, Spanish 🇻🇪 and English 🇺🇸 are the predominant ones.
-
-💯 Stay connected with me as we explore the ever-evolving world of technology together.</h3>
+<h3 align="center">"Tech enthusiast since '95, global citizen from Venezuela. Remote work lover pre-trend. Entrepreneur, DevOps, networking, ethical hacker, developer. 20+ years in tech, sharing my journey with the world. Advocate for freedom, fostering multicultural growth. Founder of two companies, spanning three countries. Cybersecurity lover from the early days. Documenting my journey with Hack The Box and Try Hack Me. Speak Spanish 🇻🇪 and English 🇺🇸. Let's explore tech together."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloaiza12&label=Profile%20views&color=0e75b6&style=flat" alt="aloaiza12" /> </p>
 
