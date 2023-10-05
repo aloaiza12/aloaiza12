@@ -29,7 +29,7 @@ With over 15 years of experience spearheading IT and cybersecurity initiatives, 
 
 - 📄 My experiences [https://www.linkedin.com/in/amaury-loaiza/](https://www.linkedin.com/in/amaury-loaiza/)
 
-- ⚡ As a Freelancer **Find me on upwork as Amaury L.**]
+- ⚡ As a Freelancer **Find me on upwork as Amaury L.**
 
 
 <h3 align="left">Connect with me:</h3>
