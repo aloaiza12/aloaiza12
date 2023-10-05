@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Amaury Loaiza E.</h1>
-<h3 align="center">Technology enthusiast since 1995, born in Venezuela but citizen of the world. Lover of remote work even before it was an imposition. Entrepreneur, DevOps, Networking, Ethical Hacking, Developer and Human.</h3>
+<h3 align="center">Passionate about technology since 1995, originally from Venezuela, but a global citizen at heart. I've embraced remote work since before it became a necessity. Entrepreneur, DevOps enthusiast, networking aficionado, ethical hacker, developer, and a lifelong learner.
+
+⏳ With over 20 years in the industry, I've traversed various stages of technology to share my knowledge with the world today.
+
+🌍 A strong advocate for freedom, I believe in nurturing a multicultural environment that fosters both professional and spiritual growth. ⚔️
+
+🎯 Founder of two companies, each with a unique approach, spanning three different countries.
+
+🔐 My love for cybersecurity dates back to my early days, scouring AltaVista, Terra, and various forums in search of 'hackerS' information.
+
+📚 Embarking on a journey with Hack The Box and Try Hack Me, I'll document my progress in my posts, sharing insights, tools, growth opportunities, and more.
+
+🗣️ While several languages are spoken here, Spanish 🇻🇪 and English 🇺🇸 are the predominant ones.
+
+💯 Stay connected with me as we explore the ever-evolving world of technology together.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloaiza12&label=Profile%20views&color=0e75b6&style=flat" alt="aloaiza12" /> </p>
 
@@ -9,7 +23,7 @@ My expertise is in IT infrastructure, DevOps, and cybersecurity. I am passionate
 
 As a cybersecurity professional, I aim to leverage my technical skills and experience to safeguard organizations against cyber threats. I am interested in continuously improving security protocols, identifying vulnerabilities, and implementing solutions to prevent breaches. My goal is to collaborate with cross-functional teams to integrate security best practices into development workflows and operations. I want to help organizations strengthen their security posture and enable them to focus on their core business goals without compromise.
 
-With over 15 years of experience spearheading IT and cybersecurity initiatives, I have a proven track record of securing systems, ensuring regulatory compliance, and leading incident response. I am committed to lifelong learning to stay updated on the evolving threat landscape. I hope to join a values-driven organization where I can make meaningful contributions to their security mission while advancing my career. My diverse background allows me to understand the interconnectedness between business goals and cybersecurity. I am excited by the opportunity to work with ethical hackers and cyber warriors to outsmart malicious actors.
+With over 20 years of experience spearheading IT and cybersecurity initiatives, I have a proven track record of securing systems, ensuring regulatory compliance, and leading incident response. I am committed to lifelong learning to stay updated on the evolving threat landscape. I hope to join a values-driven organization where I can make meaningful contributions to their security mission while advancing my career. My diverse background allows me to understand the interconnectedness between business goals and cybersecurity. I am excited by the opportunity to work with ethical hackers and cyber warriors to outsmart malicious actors.
 
 - 🔭 I’m currently working on [NEXTGO LLC](https://www.nextgo.io) **Soloprenur**
 
