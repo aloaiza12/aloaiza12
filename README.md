@@ -5,11 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloaiza12" alt="aloaiza12" /></a> </p>
 
-- 🔭 I’m currently working on [NEXTGO LLC](https://www.nextgo.io)
+My expertise is in IT infrastructure, DevOps, and cybersecurity. I am passionate about protecting sensitive data and systems through proactive security measures and mitigating risks posed by malicious actors. My strengths include strong communication skills, ability to work independently and collaboratively, and critical thinking to analyze complex situations. My values are integrity, diligence, and adaptability.
+
+As a cybersecurity professional, I aim to leverage my technical skills and experience to safeguard organizations against cyber threats. I am interested in continuously improving security protocols, identifying vulnerabilities, and implementing solutions to prevent breaches. My goal is to collaborate with cross-functional teams to integrate security best practices into development workflows and operations. I want to help organizations strengthen their security posture and enable them to focus on their core business goals without compromise.
+
+With over 15 years of experience spearheading IT and cybersecurity initiatives, I have a proven track record of securing systems, ensuring regulatory compliance, and leading incident response. I am committed to lifelong learning to stay updated on the evolving threat landscape. I hope to join a values-driven organization where I can make meaningful contributions to their security mission while advancing my career. My diverse background allows me to understand the interconnectedness between business goals and cybersecurity. I am excited by the opportunity to work with ethical hackers and cyber warriors to outsmart malicious actors.
+
+- 🔭 I’m currently working on [NEXTGO LLC](https://www.nextgo.io) **Soloprenur**
 
 - 🌱 I’m currently learning **Ethical Hacking, DevOps, SRE, DevSecOps, Full Stack**
 
-- 👯 I’m looking to collaborate on **AI, ML, Ethical Hacking or Blockchain**
+- 👯 I’m looking to collaborate on **AI, ML, Cybersecurity and Blockchain**
 
 - 🤝 I’m looking for help with [Hyper Ledger](https://www.hyperledger.org/)
 
@@ -23,7 +29,8 @@
 
 - 📄 My experiences [https://www.linkedin.com/in/amaury-loaiza/](https://www.linkedin.com/in/amaury-loaiza/)
 
-- ⚡ As a Freelancer **Find me on upwork as Amaury L.**
+- ⚡ As a Freelancer **Find me on upwork as Amaury L.**]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
